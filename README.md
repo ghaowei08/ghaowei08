@@ -53,7 +53,7 @@
 
 <h4>:dizzy: Hit Me</h4>
 <p >
-  <a href="https://www.linkedin.com/in/haowei-goh-7864751b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haowei-goh-7864751b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://steamcommunity.com/id/ghaowei08/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a> 
 </p>
 
