@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/MySQL-20232A?&style=for-the-badge&logo=mysql&logoColor=00758F"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual Studio Code-00247D?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-211F1F?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p>:two:<p>
 <p>
@@ -30,7 +31,6 @@
   <img src="https://img.shields.io/badge/NestJS-ED2945?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-589636?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub Actions-7DBBE6?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
 </p>
 <h5>:book: On my way</h5>
